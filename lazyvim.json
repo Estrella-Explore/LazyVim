@@ -1,10 +1,15 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.formatting.black",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.lang.git",
     "lazyvim.plugins.extras.ui.alpha",
     "lazyvim.plugins.extras.ui.mini-animate",
+    "lazyvim.plugins.extras.util.octo",
+    "lazyvim.plugins.extras.util.project",
+    "lazyvim.plugins.extras.util.startuptime",
     "lazyvim.plugins.extras.vscode"
   ],
   "news": {
